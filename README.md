@@ -4,7 +4,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/gustavomartinellidev/ai-governance-lab?style=social)](https://github.com/gustavomartinellidev/ai-governance-lab)
 [![Follow on GitHub](https://img.shields.io/github/followers/gustavomartinellidev?style=social&label=Follow)](https://github.com/gustavomartinellidev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?logo=linkedin)](LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?logo=linkedin)](https://www.linkedin.com/in/gustavomartinelli/)
  
 Each notebook starts from working code and ends with the governance questions that code raises. *Why did the model decide this? Can the result be reproduced? Can a non-technical reviewer understand it?* Everything runs in Google Colab in a few minutes, with no installation and no GPU.
  
