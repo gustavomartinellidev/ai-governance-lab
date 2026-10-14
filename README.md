@@ -1,6 +1,10 @@
 # 🏛️ AI Governance Lab
  
 **Hands-on Colab notebooks bridging AI engineering and AI governance: explainability, transparency and responsible AI, one LinkedIn post at a time.**
+
+[![GitHub stars](https://img.shields.io/github/stars/gustavomartinellidev/ai-governance-lab?style=social)](https://github.com/gustavomartinellidev/ai-governance-lab)
+[![Follow on GitHub](https://img.shields.io/github/followers/gustavomartinellidev?style=social&label=Follow)](https://github.com/gustavomartinellidev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?logo=linkedin)](LINKEDIN_URL)
  
 Each notebook starts from working code and ends with the governance questions that code raises. *Why did the model decide this? Can the result be reproduced? Can a non-technical reviewer understand it?* Everything runs in Google Colab in a few minutes, with no installation and no GPU.
  
@@ -72,3 +76,10 @@ Computer Science and Law backgrounds, working at the intersection of AI engineer
 The code is released under the **MIT License** (see [`LICENSE`](LICENSE)). Feel free to copy, adapt and share it, with attribution.
  
 The notebooks are **educational material and do not constitute legal advice**.
+
+## ⭐ Support this project
+
+If these notebooks are useful to you:
+- **Star this repository**: it helps more people find it.
+- **Follow me** on [GitHub](https://github.com/gustavomartinellidev) and [LinkedIn](LINKEDIN_URL) for new notebooks.
+- **Share** a notebook with someone working on AI or AI governance.
