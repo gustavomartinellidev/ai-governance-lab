@@ -55,20 +55,17 @@ ai-governance-lab/
 ```
  
 ## 👤 About the author
- 
+
 <table>
 <tr>
 <td width="130" valign="top">
 <img src="assets/profile.png" width="110" alt="Gustavo Martinelli">
 </td>
 <td valign="top">
-**Gustavo Martinelli**
-AI Engineer & AI Governance Specialist
- 
-Computer Science and Law backgrounds, working at the intersection of AI engineering, AI governance and information security.
- 
-[💼 LinkedIn](https://www.linkedin.com/in/gustavomartinelli/) · [🗺️ AI Knowledge Map](https://aiknowledgemap.org)
- 
+<b>Gustavo Martinelli</b><br>
+AI Engineer &amp; AI Governance Specialist<br><br>
+Computer Science and Law backgrounds, working at the intersection of AI engineering, AI governance and information security.<br><br>
+<a href="https://www.linkedin.com/in/gustavomartinelli/">💼 LinkedIn</a> · <a href="https://aiknowledgemap.org">🗺️ AI Knowledge Map</a>
 </td>
 </tr>
 </table>
