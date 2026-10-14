@@ -58,10 +58,10 @@ ai-governance-lab/
 
 <table>
 <tr>
-<td width="130" valign="top">
+<td width="130" align="center" valign="middle">
 <img src="assets/profile.png" width="110" alt="Gustavo Martinelli">
 </td>
-<td valign="top">
+<td valign="middle">
 <b>Gustavo Martinelli</b><br>
 AI Engineer &amp; AI Governance Specialist<br><br>
 Computer Science and Law backgrounds, working at the intersection of AI engineering, AI governance and information security.<br><br>
