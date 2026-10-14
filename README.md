@@ -11,6 +11,7 @@ Each notebook starts from working code and ends with the governance questions th
 <p align="center">
   <img src="notebooks/001-inside-a-neural-network/decision_path.gif" alt="Animated decision path through a neural network" width="720">
 </p>
+
 ## 📚 Notebooks
  
 | # | Title | Topic | Notebook | Post |
@@ -71,6 +72,7 @@ Computer Science and Law backgrounds, working at the intersection of AI engineer
 </td>
 </tr>
 </table>
+
 ## 📄 License and disclaimer
  
 The code is released under the **MIT License** (see [`LICENSE`](LICENSE)). Feel free to copy, adapt and share it, with attribution.
