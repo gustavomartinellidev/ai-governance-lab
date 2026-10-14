@@ -1,0 +1,38 @@
+AUTOMATED DECISION - EXPLAINABILITY REPORT
+========================================================
+Generated:          2026-10-12 20:52 UTC
+Model:              IrisNet (4-5-3 MLP), 43 parameters
+Model fingerprint:  3374373282b6e320
+Test accuracy:      93.3%
+Case analysed:      test sample #1
+
+1. INPUT
+   - Sepal length: 6.1 cm
+   - Sepal width: 3.0 cm
+   - Petal length: 4.9 cm
+   - Petal width: 1.8 cm
+
+2. DECISION
+   Predicted:    Virginica (confidence 74.3%)
+   Actual:       Virginica -> CORRECT
+   Alternatives: Setosa 0.0%, Versicolor 25.7%
+
+3. MAIN REASONS (influence on the predicted class)
+   'supports' = pushed toward this species; 'opposes' = pushed away.
+   The rest of the decision comes from the model's learned starting point.
+   1. Petal length: 48%, supports the decision
+   2. Petal width: 46%, supports the decision
+   3. Sepal length: 4%, supports the decision
+   4. Sepal width: 2%, supports the decision
+
+4. INTERNAL DECISION PATH
+   Petal length -> hidden neuron H5 -> Virginica
+   Inactive neurons for this case: H2
+
+5. METHOD AND LIMITATIONS
+   - Influence = exact gradient x input decomposition for this input,
+     measured relative to the average flower in the training data.
+   - The decision path highlights the strongest route; every active
+     neuron contributes to the final result.
+   - This explains one decision only, not the model's overall behaviour.
+   - Human review is recommended before relying on this decision.
