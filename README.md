@@ -83,5 +83,5 @@ The notebooks are **educational material and do not constitute legal advice**.
 
 If these notebooks are useful to you:
 - **Star this repository**: it helps more people find it.
-- **Follow me** on [GitHub](https://github.com/gustavomartinellidev) and [LinkedIn](LINKEDIN_URL) for new notebooks.
+- **Follow me** on [GitHub](https://github.com/gustavomartinellidev) and [LinkedIn](https://www.linkedin.com/in/gustavomartinelli/) for new notebooks.
 - **Share** a notebook with someone working on AI or AI governance.
