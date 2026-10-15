@@ -79,4 +79,11 @@ A report like this is one practical building block toward those obligations, not
 **Gustavo Martinelli** · AI Engineer & AI Governance Specialist · [LinkedIn](https://www.linkedin.com/in/gustavomartinelli/)
  
 *Part of [AI Governance Lab](../../README.md). Feel free to copy, adapt and share, with attribution.*
+
+## ⭐ Support this project
+
+If these notebooks are useful to you:
+- **Star this repository**: it helps more people find it.
+- **Follow me** on [GitHub](https://github.com/gustavomartinellidev) and [LinkedIn](https://www.linkedin.com/in/gustavomartinelli/) for new notebooks.
+- **Share** a notebook with someone working on AI or AI governance.
  
