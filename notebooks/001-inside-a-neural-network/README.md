@@ -4,7 +4,7 @@
 &nbsp;
 [📄 Explainability report (PDF)](explainability_report.pdf)
 &nbsp;·&nbsp;
-[💬 LinkedIn post](LINKEDIN_POST_URL)
+[💬 LinkedIn post](https://lnkd.in/p/dz6iyGSg)
  
 > **Can we explain why an AI made a decision?**
 > This notebook trains a small neural network, asks it to make one decision, and opens it up to show *why* it decided that way: layer by layer, neuron by neuron. It then turns that explanation into a plain-language report a non-technical reviewer can read.
