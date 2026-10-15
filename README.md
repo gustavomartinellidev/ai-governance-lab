@@ -16,7 +16,7 @@ Each notebook starts from working code and ends with the governance questions th
  
 | # | Title | Topic | Notebook | Post |
 |---|---|---|---|---|
-| 001 | [Inside a Neural Network: One Decision, Layer by Layer](notebooks/001-inside-a-neural-network/) | Explainability (XAI) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gustavomartinellidev/ai-governance-lab/blob/main/notebooks/001-inside-a-neural-network/inside-a-neural-network.ipynb) | [LinkedIn](LINKEDIN_POST_URL) |
+| 001 | [Inside a Neural Network: One Decision, Layer by Layer](notebooks/001-inside-a-neural-network/) | Explainability (XAI) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gustavomartinellidev/ai-governance-lab/blob/main/notebooks/001-inside-a-neural-network/inside-a-neural-network.ipynb) | [LinkedIn](https://lnkd.in/p/dz6iyGSg) |
  
 *New notebooks are added as new posts are published.*
  
