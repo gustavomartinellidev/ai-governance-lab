@@ -1,0 +1,61 @@
+THIRD-PARTY AI RISK SCREENING - REPORT
+============================================================
+Generated:         2026-11-01 16:13 UTC
+Decision model:    jev-1.13.0 (TypeSafe AI, pinned)
+Decision policy:   tprm-screening-policy v1.0
+Scope:             30 answers · 3 vendors · 10 controls
+Critical controls: C01, C05, C07
+Overall:           8 PASS · 5 REVIEW · 17 FAIL
+
+1. VENDOR TIERS
+   Quill Support: High risk (10 fail, 0 review, 0 pass; critical: C01, C05, C07)
+   Helix Assist: High risk (7 fail, 3 review, 0 pass; critical: C01, C05, C07)
+   Aurora Desk AI: Low risk (0 fail, 2 review, 8 pass)
+
+2. FINDINGS TO CONFIRM (FAIL)
+   - Helix Assist / C01 Use of customer data for training: red flag (p=0.97)
+   - Helix Assist / C04 Access control and logging: red flag (p=0.88)
+   - Helix Assist / C05 Security incident notification: red flag (p=0.83); does not address the control (p=0.14)
+   - Helix Assist / C06 AI incident and malfunction reporting: red flag (p=0.84)
+   - Helix Assist / C07 Human oversight and escalation: red flag (p=0.92)
+   - Helix Assist / C08 Model documentation and change notification: red flag (p=0.97)
+   - Helix Assist / C09 Data retention and deletion: red flag (p=0.74)
+   - Quill Support / C01 Use of customer data for training: does not address the control (p=0.03)
+   - Quill Support / C02 Subprocessors and model providers: does not address the control (p=0.02)
+   - Quill Support / C03 Encryption in transit and at rest: does not address the control (p=0.03)
+   - Quill Support / C04 Access control and logging: does not address the control (p=0.09)
+   - Quill Support / C05 Security incident notification: red flag (p=0.76); does not address the control (p=0.03)
+   - Quill Support / C06 AI incident and malfunction reporting: does not address the control (p=0.04)
+   - Quill Support / C07 Human oversight and escalation: does not address the control (p=0.06)
+   - Quill Support / C08 Model documentation and change notification: red flag (p=0.75); does not address the control (p=0.03)
+   - Quill Support / C09 Data retention and deletion: red flag (p=0.84); does not address the control (p=0.09)
+   - Quill Support / C10 Independent assurance: red flag (p=0.94); does not address the control (p=0.04)
+
+3. HUMAN REVIEW QUEUE (REVIEW)
+   - Aurora Desk AI / C04 Access control and logging: low model confidence (0.55)
+   - Aurora Desk AI / C05 Security incident notification: low model confidence (0.49)
+   - Helix Assist / C02 Subprocessors and model providers: unclear whether it addresses the control (p=0.45); possible red flag (p=0.51)
+   - Helix Assist / C03 Encryption in transit and at rest: possible red flag (p=0.31); low model confidence (0.55)
+   - Helix Assist / C10 Independent assurance: possible red flag (p=0.67)
+
+4. PASSED BY SCREENING (PASS) - spot-check by sampling
+   - Aurora Desk AI / C01 Use of customer data for training: addresses the control with evidence; spot-check by sampling
+   - Aurora Desk AI / C02 Subprocessors and model providers: addresses the control with evidence; spot-check by sampling
+   - Aurora Desk AI / C03 Encryption in transit and at rest: addresses the control with evidence; spot-check by sampling
+   - Aurora Desk AI / C06 AI incident and malfunction reporting: addresses the control with evidence; spot-check by sampling
+   - Aurora Desk AI / C07 Human oversight and escalation: addresses the control with evidence; spot-check by sampling
+   - Aurora Desk AI / C08 Model documentation and change notification: addresses the control with evidence; spot-check by sampling
+   - Aurora Desk AI / C09 Data retention and deletion: addresses the control with evidence; spot-check by sampling
+   - Aurora Desk AI / C10 Independent assurance: addresses the control with evidence; spot-check by sampling
+
+5. METHOD AND LIMITATIONS
+   - Each answer was judged by a decision model on four typed questions
+     (addresses the control, type of evidence, specificity, red flag).
+   - Statuses were assigned by an explicit, versioned policy in code,
+     not by the model. Thresholds are listed in the notebook, Section 5.
+   - This is a SCREENING, not an assessment: it ranks attention, it does
+     not establish compliance. Evidence (reports, certificates, contracts)
+     was not reviewed.
+   - The model may be wrong; probabilities are estimates, not facts.
+   - Vendors and answers are synthetic, created for educational purposes.
+   - A human must confirm every finding before it is communicated.

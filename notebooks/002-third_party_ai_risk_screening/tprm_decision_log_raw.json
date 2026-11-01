@@ -1,0 +1,1262 @@
+[
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 720,
+   "output_tokens": 93
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.93
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "referenced",
+    "confidence": 1.0,
+    "probabilities": {
+     "none": 0.0,
+     "claimed": 0.0,
+     "referenced": 1.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 2.0,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 1.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.13
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 715,
+   "output_tokens": 93
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.96
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "referenced",
+    "confidence": 1.0,
+    "probabilities": {
+     "none": 0.0,
+     "claimed": 0.0,
+     "referenced": 1.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 2.0,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 1.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.24
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 720,
+   "output_tokens": 93
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.96
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "referenced",
+    "confidence": 0.98,
+    "probabilities": {
+     "none": 0.0,
+     "claimed": 0.01,
+     "referenced": 0.99
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 2.0,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 1.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.1
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 687,
+   "output_tokens": 93
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.92
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "referenced",
+    "confidence": 0.55,
+    "probabilities": {
+     "none": 0.0,
+     "claimed": 0.3,
+     "referenced": 0.7
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 2.0,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 1.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.23
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 703,
+   "output_tokens": 93
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.97
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "referenced",
+    "confidence": 0.49,
+    "probabilities": {
+     "none": 0.01,
+     "claimed": 0.33,
+     "referenced": 0.66
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 2.0,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 1.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.05
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 697,
+   "output_tokens": 93
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.92
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "referenced",
+    "confidence": 1.0,
+    "probabilities": {
+     "none": 0.0,
+     "claimed": 0.0,
+     "referenced": 1.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 2.0,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 1.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.2
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 688,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.95
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "claimed",
+    "confidence": 1.0,
+    "probabilities": {
+     "none": 0.0,
+     "claimed": 1.0,
+     "referenced": 0.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 1.12,
+    "confidence": 0.82,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.88,
+     "2": 0.12
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.09
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 698,
+   "output_tokens": 93
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.97
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "referenced",
+    "confidence": 0.97,
+    "probabilities": {
+     "none": 0.0,
+     "claimed": 0.02,
+     "referenced": 0.98
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 2.0,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 1.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.1
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 702,
+   "output_tokens": 93
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.92
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "referenced",
+    "confidence": 0.86,
+    "probabilities": {
+     "none": 0.0,
+     "claimed": 0.09,
+     "referenced": 0.91
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 2.0,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 1.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.27
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 729,
+   "output_tokens": 93
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.96
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "referenced",
+    "confidence": 1.0,
+    "probabilities": {
+     "none": 0.0,
+     "claimed": 0.0,
+     "referenced": 1.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 2.0,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 1.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.14
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 689,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.03
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "none",
+    "confidence": 1.0,
+    "probabilities": {
+     "none": 1.0,
+     "claimed": 0.0,
+     "referenced": 0.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 0.01,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 1.0,
+     "1": 0.0,
+     "2": 0.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.58
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 670,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.02
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "none",
+    "confidence": 0.97,
+    "probabilities": {
+     "none": 0.98,
+     "claimed": 0.02,
+     "referenced": 0.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 0.01,
+    "confidence": 0.98,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.99,
+     "1": 0.01,
+     "2": 0.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.38
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 666,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.03
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "none",
+    "confidence": 0.82,
+    "probabilities": {
+     "none": 0.88,
+     "claimed": 0.12,
+     "referenced": 0.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 0.08,
+    "confidence": 0.88,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.92,
+     "1": 0.08,
+     "2": 0.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.13
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 658,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.09
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "claimed",
+    "confidence": 0.28,
+    "probabilities": {
+     "none": 0.28,
+     "claimed": 0.52,
+     "referenced": 0.2
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 0.08,
+    "confidence": 0.88,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.92,
+     "1": 0.08,
+     "2": 0.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.27
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 675,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.03
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "none",
+    "confidence": 0.98,
+    "probabilities": {
+     "none": 0.99,
+     "claimed": 0.01,
+     "referenced": 0.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 0.18,
+    "confidence": 0.73,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.82,
+     "1": 0.18,
+     "2": 0.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.76
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 666,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.04
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "none",
+    "confidence": 0.74,
+    "probabilities": {
+     "none": 0.83,
+     "claimed": 0.17,
+     "referenced": 0.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 0.12,
+    "confidence": 0.82,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.88,
+     "1": 0.12,
+     "2": 0.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.64
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 663,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.06
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "none",
+    "confidence": 1.0,
+    "probabilities": {
+     "none": 1.0,
+     "claimed": 0.0,
+     "referenced": 0.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 0.11,
+    "confidence": 0.85,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.9,
+     "1": 0.1,
+     "2": 0.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.25
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 667,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.03
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "none",
+    "confidence": 0.91,
+    "probabilities": {
+     "none": 0.94,
+     "claimed": 0.06,
+     "referenced": 0.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 0.03,
+    "confidence": 0.96,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.97,
+     "1": 0.03,
+     "2": 0.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.75
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 663,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.09
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "none",
+    "confidence": 0.82,
+    "probabilities": {
+     "none": 0.88,
+     "claimed": 0.12,
+     "referenced": 0.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 0.45,
+    "confidence": 0.32,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.55,
+     "1": 0.45,
+     "2": 0.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.84
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 676,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.04
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "none",
+    "confidence": 1.0,
+    "probabilities": {
+     "none": 1.0,
+     "claimed": 0.0,
+     "referenced": 0.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 0.1,
+    "confidence": 0.85,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.9,
+     "1": 0.1,
+     "2": 0.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.94
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 687,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.73
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "claimed",
+    "confidence": 0.98,
+    "probabilities": {
+     "none": 0.01,
+     "claimed": 0.99,
+     "referenced": 0.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 0.99,
+    "confidence": 0.94,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.96,
+     "2": 0.02
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.97
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 681,
+   "output_tokens": 93
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.45
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "referenced",
+    "confidence": 0.67,
+    "probabilities": {
+     "none": 0.0,
+     "claimed": 0.22,
+     "referenced": 0.78
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 1.11,
+    "confidence": 0.82,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.88,
+     "2": 0.12
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.51
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 687,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.87
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "claimed",
+    "confidence": 0.92,
+    "probabilities": {
+     "none": 0.01,
+     "claimed": 0.95,
+     "referenced": 0.04
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 1.7,
+    "confidence": 0.55,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.3,
+     "2": 0.7
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.31
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 671,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.49
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "claimed",
+    "confidence": 0.31,
+    "probabilities": {
+     "none": 0.0,
+     "claimed": 0.54,
+     "referenced": 0.46
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 1.97,
+    "confidence": 0.96,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.03,
+     "2": 0.97
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.88
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 664,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.14
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "claimed",
+    "confidence": 0.35,
+    "probabilities": {
+     "none": 0.43,
+     "claimed": 0.57,
+     "referenced": 0.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 0.88,
+    "confidence": 0.82,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.12,
+     "1": 0.88,
+     "2": 0.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.83
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 673,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.63
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "claimed",
+    "confidence": 0.33,
+    "probabilities": {
+     "none": 0.45,
+     "claimed": 0.55,
+     "referenced": 0.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 0.69,
+    "confidence": 0.53,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.31,
+     "1": 0.69,
+     "2": 0.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.84
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 674,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.66
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "claimed",
+    "confidence": 0.66,
+    "probabilities": {
+     "none": 0.0,
+     "claimed": 0.77,
+     "referenced": 0.23
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 1.98,
+    "confidence": 0.97,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.02,
+     "2": 0.98
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.92
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 683,
+   "output_tokens": 91
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.61
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "claimed",
+    "confidence": 0.5,
+    "probabilities": {
+     "none": 0.21,
+     "claimed": 0.67,
+     "referenced": 0.12
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 0.56,
+    "confidence": 0.34,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.44,
+     "1": 0.56,
+     "2": 0.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.97
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 677,
+   "output_tokens": 93
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.77
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "referenced",
+    "confidence": 0.26,
+    "probabilities": {
+     "none": 0.01,
+     "claimed": 0.48,
+     "referenced": 0.51
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 2.0,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 1.0
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.74
+   }
+  }
+ },
+ {
+  "model": "jev-1.13.0",
+  "usage": {
+   "input_tokens": 702,
+   "output_tokens": 93
+  },
+  "answers": {
+   "addresses": {
+    "type": "noul",
+    "noul": 0.78
+   },
+   "evidence": {
+    "type": "choice",
+    "choice": "referenced",
+    "confidence": 1.0,
+    "probabilities": {
+     "none": 0.0,
+     "claimed": 0.0,
+     "referenced": 1.0
+    }
+   },
+   "specificity": {
+    "type": "score",
+    "score": 1.84,
+    "confidence": 0.76,
+    "legend": {
+     "0": "Generic marketing or policy language; could be pasted under any control.",
+     "1": "Specific to this control but not verifiable (no numbers, deadlines, documents or mechanisms).",
+     "2": "Specific and verifiable: concrete numbers, deadlines, named documents, mechanisms or configurations."
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.16,
+     "2": 0.84
+    }
+   },
+   "red_flag": {
+    "type": "noul",
+    "noul": 0.67
+   }
+  }
+ }
+]
