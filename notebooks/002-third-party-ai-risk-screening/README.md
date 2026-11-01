@@ -1,6 +1,6 @@
 # 🔎 Third-Party AI Risk Assessment with a Decision Model
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gustavomartinellidev/ai-governance-lab/blob/main/notebooks/002-third-party-ai-risk-screening/third-party-ai-risk-screening.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gustavomartinellidev/ai-governance-lab/blob/main/notebooks/002-third-party-ai-risk-screening/third_party_ai_risk_screening.ipynb)
 &nbsp;
 [📄 Screening report (PDF)](tprm_screening_report.pdf)
 &nbsp;·&nbsp;
@@ -10,7 +10,7 @@
 > This notebook sends 30 answers from three fictional AI vendors to a security and AI-governance questionnaire through **Jev** (TypeSafe AI), a decision model that returns typed, calibrated judgments instead of text. A short policy in Python turns those judgments into **PASS / REVIEW / FAIL**, and a human reviews the gray zone. The result is a screening layer with human oversight by design.
 
 <p align="center">
-  <img src="cover_linkedin.png" alt="Third-party AI screening with a decision model: 30 vendor answers, 5 need a human" width="760">
+  <img src="vendor_screening.png" alt="Third-party AI screening with a decision model: 30 vendor answers, 5 need a human" width="760">
 </p>
 
 ## 🧭 How it works
