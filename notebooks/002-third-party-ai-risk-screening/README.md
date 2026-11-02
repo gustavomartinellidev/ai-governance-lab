@@ -4,7 +4,7 @@
 &nbsp;
 [📄 Screening report (PDF)](tprm_screening_report.pdf)
 &nbsp;·&nbsp;
-[💬 LinkedIn post](⟦link do post⟧)
+[💬 LinkedIn post]([⟦link do post⟧](https://lnkd.in/p/dNtP28WS))
 
 > **Can a model that cannot write a sentence help screen vendor risk?**
 > This notebook sends 30 answers from three fictional AI vendors to a security and AI-governance questionnaire through **Jev** (TypeSafe AI), a decision model that returns typed, calibrated judgments instead of text. A short policy in Python turns those judgments into **PASS / REVIEW / FAIL**, and a human reviews the gray zone. The result is a screening layer with human oversight by design.
