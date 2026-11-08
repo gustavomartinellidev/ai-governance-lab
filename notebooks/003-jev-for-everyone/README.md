@@ -16,7 +16,7 @@ A beginner-friendly, hands-on guide to **Jev**, the decision model from TypeSafe
 | | Setup and your API key | Disclaimer, creating a key, storing it in Colab Secrets (illustrated), installing the SDK, pinning the model version, first call |
 | **2. Try** | Example 1: Inbox triage | Urgent? Phishing? Which category? Then a rule that sorts the inbox |
 | | Example 2: Customer feedback | Satisfaction on a 0–4 scale, topic, refund request, a chart and a to-do list |
-| | Example 3: Safe to send to the AI? | Jev as a guardrail in front of a chatbot: personal data, manipulation, off-topic |
+| | Example 3: Should the chatbot answer this? | Jev as a gate in front of a chatbot (personal data, manipulation, off-topic), and why the gate itself is a third party |
 | **3. Reflect** | What did we gain? | Measured latency and cost, side-by-side with common GenAI |
 | | Takeaways, limitations, going further | What to remember, what to be careful about, what to try next |
 
@@ -55,7 +55,7 @@ Typed outputs make decisions loggable, comparable and auditable; thresholds in c
 
 - The model can be wrong, including when confident; validate thresholds on your own data.
 - All emails, reviews and messages are synthetic.
-- Sending real data to an external API is itself a decision; check your policies first.
+- Sending real data to an external API is itself a decision, and the gate in Example 3 is an external API too; check your policies and contracts first, run local checks before remote ones.
 - Educational material, **not legal advice**; independent work, not affiliated with TypeSafe AI.
 
 ---
