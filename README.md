@@ -18,7 +18,8 @@ Each notebook starts from working code and ends with the governance questions th
 |---|---|---|---|---|
 | 001 | [Inside a Neural Network: One Decision, Layer by Layer](notebooks/001-inside-a-neural-network/) | Explainability (XAI) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gustavomartinellidev/ai-governance-lab/blob/main/notebooks/001-inside-a-neural-network/inside-a-neural-network.ipynb) | [LinkedIn](https://lnkd.in/p/dz6iyGSg) |
 | 002 | [Using Jev (TypeSafe AI) to run Third-Party Risk Assessment](notebooks/002-third-party-ai-risk-screening/) | Third-Party Risk Assessment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gustavomartinellidev/ai-governance-lab/blob/main/notebooks/002-third-party-ai-risk-screening/third_party_ai_risk_screening.ipynb) | [LinkedIn](https://lnkd.in/p/dNtP28WS) |
- 
+| 003 | [Jev for Everyone](notebooks/003-jev-for-everyone/) | Jev for Everyone | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/gustavomartinellidev/ai-governance-lab/blob/main/notebooks/003-jev-for-everyone/jev_for_everyone.ipynb) | [LinkedIn](https://lnkd.in/p/d8mkFTcK) |
+
 *New notebooks are added as new posts are published.*
  
 ## 🧭 Principles
